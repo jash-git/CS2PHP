@@ -1,0 +1,5 @@
+D:\Visual project code\Console_CS2PHP\Console_CS2PHP\bin\Debug\Console_CS2PHP.exe.config
+D:\Visual project code\Console_CS2PHP\Console_CS2PHP\bin\Debug\Console_CS2PHP.exe
+D:\Visual project code\Console_CS2PHP\Console_CS2PHP\bin\Debug\Console_CS2PHP.pdb
+D:\Visual project code\Console_CS2PHP\Console_CS2PHP\obj\x86\Debug\Console_CS2PHP.exe
+D:\Visual project code\Console_CS2PHP\Console_CS2PHP\obj\x86\Debug\Console_CS2PHP.pdb
